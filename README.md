@@ -1,5 +1,5 @@
 
-#Home Screen
+# Home Screen
 Popular Movies on IMDB
 ![Alt text](https://github.com/arbahaam/MovieApp_Rapidapi/blob/main/photo1633812573.jpeg?raw=true "MAIN Screen")
 
