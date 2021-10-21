@@ -34,6 +34,7 @@ class _MovieDetailPageState extends State<MovieDetailPage> {
 // Added new line comment
 // Second line comment
 // third line comment
+// Fourth line
   @override
   Widget build(BuildContext context) {
     final state = Provider.of<AppState>(context, listen: false).detail;
